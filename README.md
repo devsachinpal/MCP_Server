@@ -89,9 +89,13 @@ RESSL Assignment – Task 2
 MCP Server Development (Node.js + Express)
 2025
 
-### 📸 Output Screenshot
+## 📸 Output Screenshots
 
-Below is the sample output from the MCP Inspector tool:
+Below are the screenshots from the MCP Inspector tool:
 
-![MCP Output](./mckeyword.jpg)
-![MCP Output](./mcvconnected.jpg)
+### 🔹 MCP Server Connected
+![MCP Connected](https://github.com/devsachinpal/MCP_Server/blob/main/mcv%20connected.JPG)
+
+### 🔹 Keyword Search Output
+![Keyword Output](https://github.com/devsachinpal/MCP_Server/blob/main/mcvkeyword.JPG)
+
