@@ -82,9 +82,16 @@ code:
 Example Output
 
 {"keyword":"hello","occurrences":2,"matches":["hello world","hello again"]}
+
 🧑 Author
 # Sachin Pal
 RESSL Assignment – Task 2
 MCP Server Development (Node.js + Express)
 2025
 
+### 📸 Output Screenshot
+
+Below is the sample output from the MCP Inspector tool:
+
+![MCP Output](./mckeyword.jpg)
+![MCP Output](./mcvconnected.jpg)
