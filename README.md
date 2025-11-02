@@ -28,15 +28,18 @@ The server provides a tool that searches for a specified keyword within a given 
 MCP_Server/
 │
 ├── server.js # Main server file
-├── data.txt # Sample data file for keyword search
-├── .env # Environment configuration file
-├── package.json # Node.js dependencies
-├── package-lock.json # Dependency lock file
-├── mcvkeyword.JPG # Screenshot 1 for verify
-├── mcv connected.JPG # Screenshot 2 for verify
 
-yaml
-Copy code
+├── data.txt # Sample data file for keyword search
+
+├── .env # Environment configuration file
+
+├── package.json # Node.js dependencies
+
+├── package-lock.json # Dependency lock file
+
+├── mcvkeyword.JPG # Screenshot 1 for verify
+
+├── mcv connected.JPG # Screenshot 2 for verify
 
 ---
 
@@ -88,4 +91,5 @@ Copy code
 Sachin Pal
 RESSL Assignment – Task 2
 MCP Server Development (Node.js + Express)
+
 2025
