@@ -25,8 +25,9 @@ The server provides a tool that searches for a specified keyword within a given 
 ---
 
 ## 📁 Project Structure
+
 MCP_Server/
-│
+
 ├── server.js # Main server file
 
 ├── data.txt # Sample data file for keyword search
@@ -50,46 +51,40 @@ MCP_Server/
    git clone https://github.com/devsachinpal/MCP_Server.git
    cd MCP_Server
 Install dependencies
+code:
 
-bash
-Copy code
 npm install
-Start the server
+# Start the server
 
-bash
-Copy code
 node server.js
-Open your browser or use curl to test:
+# Open your browser or use curl to test:
 
-arduino
-Copy code
 http://localhost:5000
  API Endpoint
 POST /search
 Request Body (JSON):
 
 json
-Copy code
+code:
+
 {
   "keyword": "hello",
   "filepath": "C:\\Windows\\System32\\mcp_server\\mcp_server\\data.txt"
 }
-Sample Response:
 
-json
-Copy code
+# Sample Response:
+
 {
   "keyword": "hello",
   "occurrences": 2,
   "matches": ["hello world", "hello again"]
 }
 Example Output
-json
-Copy code
+
 {"keyword":"hello","occurrences":2,"matches":["hello world","hello again"]}
 🧑 Author
-Sachin Pal
+# Sachin Pal
 RESSL Assignment – Task 2
 MCP Server Development (Node.js + Express)
-
 2025
+
